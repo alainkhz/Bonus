@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653468356 source:c:\users\khzzi\onedrive\¤å¥ó\github\zerojudge\bignumber\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<memory.h>
+	<stdbool.h>
+	<sstream>
+	<deque>
+
